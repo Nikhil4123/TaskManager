@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Task 1",
+    "description": "Description for task 1",
+    "status": "ToDo",
+    "creationDate": "2024-12-01T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Task 2",
+    "description": "Description for task 2",
+    "status": "InProgress",
+    "creationDate": "2024-11-30T12:00:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Task 3",
+    "description": "Description for task 3",
+    "status": "Completed",
+    "creationDate": "2024-11-29T08:00:00Z"
+  }
+]
