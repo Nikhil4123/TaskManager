@@ -1,23 +1,38 @@
-# Task Dashboard
+# Task Dashboard Application
 
-This is a **Task Dashboard** project that helps you manage and organize tasks efficiently. It allows you to add, edit, and delete tasks while maintaining a clean and responsive design.
+A simple and responsive task dashboard application that allows users to create, edit, and delete tasks, with features like task categorization and filtering.
+
+---
 
 ## Features
+- Add, edit, and delete tasks.
+- Task categorization and status management.
+- Fully responsive layout.
+- Modern design with an intuitive user interface.
 
-- Add new tasks with detailed information.
-- Edit or update existing tasks.
-- Delete tasks when no longer needed.
-- Filter and organize tasks using an intuitive interface.
-- Responsive design for all screen sizes.
+---
 
 ## Technologies Used
+- HTML, CSS, JavaScript
+- Node.js
+- TailwindCSS
 
-- **HTML5**, **CSS3**, **JavaScript** for the front-end.
-- **Node.js** for any backend requirements.
-- **Git** for version control.
+---
 
-## Installation
+## Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
+### Prerequisites
+Ensure you have the following installed on your system:
+- [Node.js](https://nodejs.org/)
+- [Git](https://git-scm.com/)
+
+---
+
+### Steps to Set Up and Run the Application
+
+1. **Clone the Repository**  
+   Open your terminal and run:  
+   ```bash  
+   git clone https://github.com/Nikhil4123/TaskManager.git  
+   cd TaskManager  
+   npm run dev
